@@ -2,7 +2,7 @@
 
 Good Morning!
 
-I am Tharun. This is my forst Github Repository
+I am Tharun. This is my first Github Repository
 Nice to meet you all!!
 
 Created an open source repository
